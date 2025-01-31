@@ -1,4 +1,4 @@
-import html from "../assets/html.png"
+import html from "./HTML.png"
 import react from "../assets/REACT.png"
 import python from "../assets/PYTHON.png"
 import css from "../assets/CSS.png"
