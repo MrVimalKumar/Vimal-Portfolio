@@ -7,8 +7,8 @@ import resume from "../assets/Vimal_Kumar_R.pdf"
 
 const Home = () => {
   return (
-    <div className=" ">
-      <div className="  p-4 bg-gray-100">
+    <div className=" bg-gray-100 ">
+      <div className="  p-4">
         <ul className="flex items-center justify-center">
           <li className="px-10">
             <a href="https://github.com/MrVimalKumar">
@@ -26,7 +26,7 @@ const Home = () => {
             </a>
           </li>
         </ul>
-      </div>
+      </div >
       <div className="flex place-items-end justify-between bg-gray-100 border border-solid border-l-black rounded-lg p-4 mx-4 pt-8">
         <div className="ml-12">
           <h1 className="text-4xl  ">
