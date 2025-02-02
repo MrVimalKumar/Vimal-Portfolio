@@ -26,8 +26,8 @@ const Home = () => {
           </li>
         </ul>
       </div>
-      <div className="flex justify-between relative bg-gray-100 border border-solid border-l-black rounded-lg h-[590px] md:h-[450px] p-4 mx-4 pt-8">
-        <div className="z-20 mt-[245px] md:mt-[180px]">
+      <div className="flex justify-between relative bg-gray-100 border border-solid border-l-black rounded-lg h-[670px] md:h-[450px] p-4 mx-4 pt-8">
+        <div className="z-20 mt-[390px] md:mt-[180px]">
           <pre className="text-[26px] md:text-4xl font-semibold" id="name">
             I am <span className="text-red-400">VimalKumar R</span>
           </pre>
