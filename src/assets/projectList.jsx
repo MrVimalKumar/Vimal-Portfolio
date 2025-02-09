@@ -9,7 +9,7 @@ const projectdata = [
       id: 1,
       image: foodiehub,
       name: "Foodie Hub",
-      github: "https://github.com/MrVimalKumar/FoodieHub",
+      github: "https://github.com/MrVimalKumar/Foodie_Hub",
       drive:
         "https://drive.google.com/drive/folders/1NWahkUY50fmSTUcRpjeYuc59rPyIafzh?usp=drive_link",
       description:
