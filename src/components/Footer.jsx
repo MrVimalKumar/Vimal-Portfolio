@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div className="pb-8 bg-gray-100">
-      <h1 className="py-5  text-4xl font-extrabold text text-center">Footer</h1>
+      <h1 className="py-5  text-4xl font-extrabold text text-center"></h1>
       <div className="border border-solid border-l-black rounded-lg p-4 mx-4 py-4 ">
         <div className="flex items-center justify-between flex-col md:flex-row mx-8">
           <div>
